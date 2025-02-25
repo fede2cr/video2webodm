@@ -1,0 +1,5 @@
+opencv-python
+pysrt
+pillow
+piexif
+scikit-image
